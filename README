@@ -1,10 +1,21 @@
+InfiCraft - "Filled In"
+(Also contains Rook Hooks in some child mods. See appropriate fork of TConstruct.)
+This project aims to "fill in" some of the things I personally felt were missing from inficraft. Primarily, I felt that I was rather dissapointed by the small assortment of blocks in the infi-pack after it's major remake, and I guess I just didn't get the sensation of completeness, as some things were left out here and there.
+Like some of the doors are missing, and that TConstruct won't accept high cobblestone as a material.
+So, here's the list of additions I want to make to give this mod the support it needs to live up to it's name and potential:
+- Add objects for each of the cobblestone pastels and depths.
+- Finish the different doors (aka. fix vanilla to make it InfiCraft)
+- Rinse and Repeat the above until combinations are completed, or give up and put in a custom renderer/auto-combination generator.
+- Make it so there is more things you can use as materials for TConstruct.
+- Modify TConstruct renderer to deal with colors of wood and stone
+- Make sure that there is a combination generator or modular system or similar by the time I start as It suddenly seems like more textures than it's worth to recolor and more indiviudal damage values than the Pixel Artist XtrabBlocks Mod is worth in 16-bit.
+- I'll figure it out later.
+
+ReadMe for the default InfiCraft GitHub:
 Welcome to the InfiCraft github! Please enjoy your stay; we have some nice things in store.
-
 Current version: Minecraft 1.4.6
-
 Current Mods: TConstruct, InfiBlocks, Flora & Soma, Orizon, Tweaks
 WiP Mods: Bastion, Simple BGM, Armory
-
 InfiTools: Retired. Replaced with TConstruct
 Flora & Soma: Berries, Clouds, Corruptor, Crops, Trees
 Orizon: Stone, Slime pools
