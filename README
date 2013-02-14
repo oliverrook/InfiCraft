@@ -6,6 +6,28 @@ This is the current plan (due to constant and highly varying frequency change):
 Add and change all items and blocks to match their base materials, ie if it's made of high cobble, it will be lighter than the cobble one.
 To do this: Use custom render system combined with a multi-damage value array system, which will be parsed in the background to determine the render's display, so the base code will not be affected.
 
+List of things to fill in:
+-Stone slabs for colored stone (Priority 1 A)
+-Stone walls for colored stone (Priority 1 B)
+-Stone stairs for colored stone (Priority 1 C)
+-Stone magic slab recipes for colored stone (Priority 1 D)
+-Stone block recipes for (Priority 1 E)
+ +slabs (Priority 1 E a)
+ +walls (Priority 1 E b)
+ +stairs (Priority 1 E c)
+ +Magic Slabs (Priority 1 E d)
+-Metallurgy Ores support for colored stone (Priority 3)
+-TConstruct accepting colored stone as an input (Rook Hook)
+-Vanilla Door Recipes (Priority 4)
+-Rook Hooks for (Priority 2)
+ + Request and be rewarded with a response. I guarantee nothing else.
+ + TConstruct (Priority 2 A)
+ + EE3 (Priority 1)
+ + Metallurgy (Priority 3)
+-Config options for (Priority As Needed)
+ + Vanilla style doors vs. Infi Style
+ + Bonus materials for TConstruct
+ + Stone Textures and Generation for Metallurgy Ores on colored stone
 ReadMe for the default InfiCraft GitHub:
 Welcome to the InfiCraft github! Please enjoy your stay; we have some nice things in store.
 Current version: Minecraft 1.4.6
