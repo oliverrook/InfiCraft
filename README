@@ -6,11 +6,18 @@
 ▒   ►►►Rook Hooks Included◄◄◄   ▒
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
-This project aims to "fill in" some of the things I personally felt were missing from inficraft. Primarily, I felt that I was rather dissapointed by the small assortment of blocks in the infi-pack after it's major remake, and I guess I just didn't get the sensation of completeness, as some things were left out here and there.
-Like some of the doors are missing, and that TConstruct won't accept high cobblestone as a material.
-This is the current plan (due to constant and highly varying frequency change):
-Add and change all items and blocks to match their base materials, ie if it's made of high cobble, it will be lighter than the cobble one.
-To do this: Use custom render system combined with a multi-damage value array system, which will be parsed in the background to determine the render's display, so the base code will not be affected.
+◊◊◊◊◊◊◊mDiyo!◊◊◊◊◊◊◊ Please Read!
+◊◊◊◊◊◊◊mDiyo!◊◊◊◊◊◊◊ Please Read!
+◊◊◊◊◊◊◊mDiyo!◊◊◊◊◊◊◊ I'm spamming this because I want you to read this!
+
+Feel free to help me along with some of these! A Custom Renderer for the Infi-pack maybe? Please?
+And I can do the rest of the tedious stuff? You know, since you already have a renderer for Tinker's Construct?
+And because it would be a very nice gesture to make this less pain staking for me.
+I'll give you some free room in your inbox for it! ^^
+
+This is a mod that patches up some of the missing parts to InfiCraft, and also adds in a few "Rook Hooks", which are
+basically my way of connecting mods together via their apis, or source code, and making them go from compatible to
+supported.
 
 List of things to fill in:
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
