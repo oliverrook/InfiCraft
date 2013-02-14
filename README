@@ -1,5 +1,11 @@
-InfiCraft - Name to be determined
-(Also contains Rook Hooks in some child mods. See appropriate fork of TConstruct.)
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒                               ▒
+▒           InfiCraft           ▒
+▒      The Forgotton Links      ▒
+▒                               ▒
+▒   ►►►Rook Hooks Included◄◄◄   ▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
 This project aims to "fill in" some of the things I personally felt were missing from inficraft. Primarily, I felt that I was rather dissapointed by the small assortment of blocks in the infi-pack after it's major remake, and I guess I just didn't get the sensation of completeness, as some things were left out here and there.
 Like some of the doors are missing, and that TConstruct won't accept high cobblestone as a material.
 This is the current plan (due to constant and highly varying frequency change):
@@ -17,14 +23,18 @@ List of things to fill in:
 ▌ +walls (Priority 1 E b)                                             ▐
 ▌ +stairs (Priority 1 E c)                                            ▐
 ▌ +Magic Slabs (Priority 1 E d)                                       ▐
-▌-Metallurgy Ores support for colored stone (Priority 3)              ▐
-▌-TConstruct accepting colored stone as an input (Rook Hook)          ▐
-▌-Vanilla Door Recipes (Priority 4)                                   ▐
 ▌-Rook Hooks for (Priority 2)                                         ▐
 ▌ + Request and be rewarded with a response. I guarantee nothing else.▐
-▌ + TConstruct (Priority 2 A)                                         ▐
-▌ + EE3 (Priority 1)                                                  ▐
-▌ + Metallurgy (Priority 3)                                           ▐
+▌ + EE3 (Priority 2 A)                                                ▐
+▌  ▫ Add EE3 recipes for colored stone (Rook Hook)                    ▐
+▌ + TConstruct (Priority 2 B)                                         ▐
+▌  ▫ TConstruct accepting colored stone as an input (Rook Hook)       ▐
+▌  ▫ TConstruct accepting Metaalurgy Ores as input (Rook Hook)        ▐
+▌ + Metallurgy (Priority 2 C)                                         ▐
+▌  ▫ Mettalurgy support for colored stone (Rook Hook)                 ▐
+▌  ▫ TConstruct accepting Metaalurgy Ores as input (Rook Hook)        ▐
+▌-Metallurgy Ores support for colored stone (Priority 3)              ▐
+▌-Vanilla Door Recipes (Priority 4)                                   ▐
 ▌-Config options for (Priority As Needed)                             ▐
 ▌ + Vanilla style doors vs. Infi Style                                ▐
 ▌ + Bonus materials for TConstruct                                    ▐
