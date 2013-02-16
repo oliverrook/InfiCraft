@@ -1,0 +1,14 @@
+The plan on how it will work:
+First and foremost, I have received permission from the author, mDiyo, to make a custom render-er for the mod. As the render-er would be useless without a system to use it, I think we both agreed that it would also have such a system.
+Sooooooo. Basically... I'm making InfiCraft 2, or as I would like to call it, Modular Infinity, though I will keep the name should mDiyo so wish, and I will still use the name as a title and "legal name", even if she accepts.
+
+And now, here's the plan for the system:
+- It will be modular based on properties
+  +Material (Wooden, Stone, Metal, Ore, ect.)
+  +Sub Material (Wood vs Logs, Cobble Vs. Stone, ect.)
+  +Color (Simply the kind. Stone colors, Tree Names, ect.)
+  +Type (Door, Slab, Magic Slab, Stairs, ect.)
+  +Mod (Used for identifying what is and isn't there, so it can turn on and off certain modules or "Rook Hooks")
+- It will automatically assign a damage value based on these properties.
+- The custom render-er will then use this damage value and do some fancy mathmatical stuff (still working on the details), and then render the block based on that, meaning it will probably have it's own chunk update rate, so it doesn't have to calculate everything every updated chunk. (It's optimization. Let's just say that.)
+And, yeah. That's kind of it. At least for the main bulk of the mod.
