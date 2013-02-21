@@ -7,11 +7,11 @@ body {
   font-weight:300;
 }
 
-#mainly {
-  font:14px/1.5 Lato, "Courier Momo";
+.mainly {
+  font:14px/1.5 Lato, "Courier Mono";
 }
 
-#features {
+.features {
   border-width: 2px;
   border-color: #555555;
 }
